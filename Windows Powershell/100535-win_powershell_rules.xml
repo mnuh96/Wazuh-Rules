@@ -1,5 +1,5 @@
 <group name="windows,">
-  <rule id="100534" level="1">
+  <rule id="100535" level="1">
     <if_sid>60009</if_sid>
     <field name="win.system.providerName">^PowerShell$</field>
     <mitre>
